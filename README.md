@@ -1,1 +1,1 @@
-# Operation-Research-and-Decision-Theory-Training
+# Operation Research and Decision Theory Training
